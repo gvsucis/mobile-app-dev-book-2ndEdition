@@ -1,3 +1,6 @@
 [submodule "mobile-app-dev-book-iOS"]
 	path = mobile-app-dev-book-iOS
 	url = https://github.com/gvsucis/mobile-app-dev-book-iOS.git
+[submodule "mobile-app-dev-book-android"]
+	path = mobile-app-dev-book-android
+	url = https://github.com/gvsucis/mobile-app-dev-book-android.git
